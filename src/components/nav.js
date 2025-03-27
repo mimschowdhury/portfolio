@@ -120,8 +120,6 @@ const StyledNav = styled.nav`
   }
 `;
 
-
-
 const StyledLinks = styled.div`
   display: flex;
   align-items: center;
