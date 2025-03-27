@@ -75,8 +75,9 @@ const StyledTabButton = styled.button`
   padding: 0 20px 2px;
   border-left: 2px solid var(--lightest-navy);
   background-color: transparent;
-  color: ${({ isActive }) => (isActive ? 'var(--green)' : 'var(--slate)')};
-  font-family: var(--font-mono);
+  color: ${({ isActive }) => (isActive ? 'var(--green)' :'rgb(224, 160, 180)')};
+  font-family: 'Nunito';
+  font-weight: 700;
   font-size: var(--fz-xs);
   text-align: left;
   white-space: nowrap;
