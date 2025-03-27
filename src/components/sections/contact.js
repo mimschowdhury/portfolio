@@ -33,6 +33,7 @@ const StyledContactSection = styled.section`
 
   .title {
     font-size: clamp(40px, 5vw, 60px);
+    color: #b5c99a;
   }
 
   .email-link {
