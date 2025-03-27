@@ -70,6 +70,7 @@ const Hero = () => {
 
   useEffect(() => {
     if (prefersReducedMotion) {
+      setIsMounted(true); 
       return;
     }
 
@@ -106,7 +107,7 @@ const Hero = () => {
   const items = [one, two, three, four, five];
 
   return (
-    <StyledHeroSection>
+    <StyledHeroSection style={!isMounted ? { visibility: 'hidden' } : {}}>
       <div className="hero-content">
       {prefersReducedMotion ? (
         <>
