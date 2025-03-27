@@ -18,10 +18,10 @@ module.exports = {
       name: 'Linkedin',
       url: 'https://www.linkedin.com/in/mimtachowdhury',
     },
-    // {
-    //   name: 'Codepen',
-    //   url: 'https://codepen.io/bchiang7',
-    // },
+    {
+      name: 'Travel Blog',
+      url: 'https://mimstravels.mypixieset.com/',
+    },
   ],
 
   navLinks: [
