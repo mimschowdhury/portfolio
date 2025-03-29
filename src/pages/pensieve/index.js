@@ -179,7 +179,7 @@ const PensievePage = ({ location, data }) => {
                       <p className="post__desc">{description}</p>
                     </header>
 
-                    <footer>
+                    {/* <footer>
                       <span className="post__date">{formattedDate}</span>
                       <ul className="post__tags">
                         {tags.map((tag, i) => (
@@ -190,7 +190,21 @@ const PensievePage = ({ location, data }) => {
                           </li>
                         ))}
                       </ul>
-                    </footer>
+                    </footer> */}
+
+                    <footer>
+                    <span className="post__date">{formattedDate}</span>
+                      {Array.isArray(tags) && tags.length > 0 && (
+                        <ul className="post__tags">
+                          {tags.map((tag, i) => (
+                            <li key={i}>
+                              <Link to={`/pensieve/tags/${kebabCase(tag)}/`} className="inline-link">
+                                #{tag}
+                              </Link>
+                            </li>
+                          ))}
+                        </ul>)}
+                    </footer> 
                   </div>
                 </StyledPost>
               );
