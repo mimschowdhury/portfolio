@@ -160,7 +160,7 @@ const About = () => {
             <p>
               I also recently{' '}
               <strong>
-                <a href="https://6ixcafes.com">launched 6ixcafes</a>
+                <a href="https://6ixcafes.netlify.app/">launched 6ixcafes</a>
               </strong>{' '}
               — a curated cafe discovery platform designed for coffee enthusiasts in Toronto. This
               project blends my passion for software development and my love for exploring unique
