@@ -3,7 +3,7 @@ date: '2024-04-01'
 title: 'Senior Enterprise Risk Management Advisor'
 company: 'Canadian Red Cross'
 location: 'Ottawa, ON'
-range: 'May 2018 - Present'
+range: 'May 2022 - Apr 2024'
 url: 'https://www.redcross.ca/'
 ---
 
