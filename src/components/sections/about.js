@@ -141,31 +141,27 @@ const About = () => {
       <div className="inner">
         <StyledText>
           <div>
-            <p>Hello! My name is Mimta and I enjoy creating fun, impactful projects/websites 👩🏻‍💻!</p>
+            <p><em>Engineer turned coder with a soft spot for coffee, clean code, and human-centered design 👩🏻‍💻.</em></p>
+            <p>Hi! My name is Mimta and I enjoy creating fun, impactful projects/websites 👩🏻‍💻!</p>
             <p>
-              Currently, I’m a Software Engineering alumnus from BrainStation, embarking on an
-              exciting journey to merge technical expertise with a strong foundation in research and
-              enterprise risk management. My unique career pivot reflects my belief in continuous
-              learning and my passion for developing solutions that make a difference.
+              I’m a Software Engineering alumnus from BrainStation with an unconventional edge — blending technical 
+              skills with a background in biomedical engineering and enterprise risk management. 
+              My unique career pivot reflects a commitment to continuous learning and 
+              a drive to build meaningful, user-focused digital solutions.
             </p>
             <p>
               Fast-forward to today, and I’ve had the privilege of working at{' '}
               <a href="https://www.redcross.ca/">a non-profit organization</a>,{' '}
               <a href="https://www.td.com/ca/">a huge corporation</a>,{' '}
               <a href="https://www.pokimanphotos.com/">a local small business</a>, and{' '}
-              <a href="https://www.vaughan.ca/">a 3D design studio</a>. My main focus these days is
-              building accessible, inclusive products and digital experiences for a variety of
-              clients.
+              <a href="https://www.vaughan.ca/">a 3D design studio</a>, building accessible, user-focused digital experiences across industries.
             </p>
             <p>
-              I also recently{' '}
+              I recently{' '}
               <strong>
                 <a href="https://6ixcafes.netlify.app/">launched 6ixcafes</a>
               </strong>{' '}
-              — a curated cafe discovery platform designed for coffee enthusiasts in Toronto. This
-              project blends my passion for software development and my love for exploring unique
-              cafes, helping users find the best cafes based on ambiance, specialty drinks, and
-              location.
+              — a cafe discovery platform for Toronto coffee enthusiasts that blends my technical skills with my love for local gems.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
