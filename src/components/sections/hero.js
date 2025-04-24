@@ -87,7 +87,7 @@ const Hero = () => {
         I’m a software engineer passionate about developing innovative and user-focused digital
         experiences. Currently, I’m building accessible, data-driven solutions and curating
         exceptional cafe discoveries at{' '}
-        <a href="https://www.6ixcafes.com" target="_blank" rel="noreferrer">
+        <a href="https://6ixcafes.netlify.app/" target="_blank" rel="noreferrer">
           6ixCafes
         </a>
         .
@@ -97,7 +97,7 @@ const Hero = () => {
   const five = (
     <a
       className="email-link"
-      href="https://www.6ixcafes.com"
+      href="https://6ixcafes.netlify.app/"
       target="_blank"
       rel="noreferrer">
       Check out my website!
