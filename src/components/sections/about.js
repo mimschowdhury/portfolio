@@ -141,8 +141,8 @@ const About = () => {
       <div className="inner">
         <StyledText>
           <div>
-            <p><em>Engineer turned coder with a soft spot for coffee, clean code, and human-centered design 👩🏻‍💻.</em></p>
-            <p>Hi! My name is Mimta and I enjoy creating fun, impactful projects/websites 👩🏻‍💻!</p>
+            {/* <p><em>Engineer turned coder </em>with a soft spot for coffee, clean code, and human-centered design 👩🏻‍💻.</p> */}
+            <p>Hi! I'm Mimta and I enjoy creating fun, impactful projects/websites 👩🏻‍💻!</p>
             <p>
               I’m a Software Engineering alumnus from BrainStation with an unconventional edge — blending technical 
               skills with a background in biomedical engineering and enterprise risk management. 

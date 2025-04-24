@@ -84,7 +84,7 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I’m a software engineer passionate about developing innovative and user-focused digital
+        I’m a biomedical engineer turned coder, passionate about crafting innovative and user-focused digital
         experiences. Currently, I’m building accessible, data-driven solutions and curating
         exceptional cafe discoveries at{' '}
         <a href="https://6ixcafes.netlify.app/" target="_blank" rel="noreferrer">
