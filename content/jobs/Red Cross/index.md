@@ -7,8 +7,11 @@ range: 'May 2022 - Apr 2024'
 url: 'https://www.redcross.ca/'
 ---
 
-- Full-time oversight to the ERM Function, including: coordination of CRC’s Strategic Risks, supporting Corporate reporting, development of ERM tools, guidance materials & the Risk Champion network
-- Orchestrated the Annual Risk Meeting for 100+ stakeholders, including the CEO and Senior Executives, driving high-impact strategic risk discussions and delivering the Annual Risk Report.
+- Co-directed the ERM function, managing 16 strategic and 300+ operational risks while streamlining corporate reporting and enhancing risk tools, guidance materials, and the Risk Champion network.
+- Led the Annual Risk Meeting for 100+ stakeholders, orchestrating high-impact panel discussions with the CEO and Senior Executives. Developed and presented the Annual Risk Report, delivering key insights to drive strategic risk discussions.
 - Project Lead for the Capital Project: Resolver, implementing a risk management system to optimize enterprise-wide risk management.
-- Developed & delivered 20+ risk learning and onboarding sessions, equipping executives and Risk Champions with critical risk management frameworks.
-- Authored & presented quarterly and annual board reports for the audit, finance, and quality committees, providing data-driven insights to inform strategic decision-making.
+- Delivered 20+ risk learning sessions and onboarding programs to build ERM literacy across the organization.
+- Analyzed operational and strategic risk trends using Excel and Power BI, creating dashboards and executive board reports that shaped quarterly and annual strategies for audit, finance, and quality committees.
+
+<!-- - Conducted data analysis on operational and strategic risk trends using Excel, and visualized insights through Power BI dashboards to support executive decision-making.
+- Authored & presented quarterly and annual board reports for the audit, finance, and quality committees, providing data-driven insights to inform strategic decision-making. -->
