@@ -84,9 +84,9 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I’m a biomedical engineer turned coder, passionate about crafting innovative and user-focused digital
-        experiences. Currently, I’m building accessible, data-driven solutions and curating
-        exceptional cafe discoveries at{' '}
+        I’m a biomedical engineer turned coder, passionate about crafting innovative digital
+        experiences. By day, I’m a Senior Risk Manager at RBC, navigating complex risks with a curious mind.
+        By night (over countless lattes), I’m curating exceptional cafe discoveries at{' '}
         <a href="https://6ixcafes.netlify.app/" target="_blank" rel="noreferrer">
           6ixCafes
         </a>
