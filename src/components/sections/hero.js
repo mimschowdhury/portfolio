@@ -88,9 +88,8 @@ const Hero = () => {
         experiences. By day, I’m a Senior Risk Manager at RBC, navigating complex risks with a curious mind.
         By night (over countless lattes), I’m curating exceptional cafe discoveries at{' '}
         <a href="https://6ixcafes.netlify.app/" target="_blank" rel="noreferrer">
-          6ixCafes
+          6ixCafes.
         </a>
-        .
       </p>
     </>
   );
