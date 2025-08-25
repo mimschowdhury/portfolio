@@ -142,19 +142,19 @@ const About = () => {
         <StyledText>
           <div>
             {/* <p><em>Engineer turned coder </em>with a soft spot for coffee, clean code, and human-centered design 👩🏻‍💻.</p> */}
-            <p>Hi! I'm Mimta and I enjoy creating fun, impactful projects/websites 👩🏻‍💻!</p>
+            <p>Hi! I'm Mimta — I love creating fun, impactful projects and websites 👩🏻‍💻!</p>
             <p>
-              I’m a Software Engineering alumnus from BrainStation with an unconventional edge — blending technical 
-              skills with a background in biomedical engineering and enterprise risk management. 
-              My unique career pivot reflects a commitment to continuous learning and 
-              a drive to build meaningful, user-focused digital solutions.
+              I’m a Software Engineering alumnus from BrainStation with an unconventional edge: a background in 
+              biomedical engineering and enterprise risk management. 
+              My career pivot reflects a commitment to continuous learning and 
+              my drive to build meaningful, user-focused digital solutions.
             </p>
             <p>
               Fast-forward to today, and I’ve had the privilege of working at{' '}
               <a href="https://www.redcross.ca/">a non-profit organization</a>,{' '}
               <a href="https://www.td.com/ca/">a huge corporation</a>,{' '}
               <a href="https://www.pokimanphotos.com/">a local small business</a>, and{' '}
-              <a href="https://www.vaughan.ca/">a 3D design studio</a>, building accessible, user-focused digital experiences across industries.
+              <a href="https://www.vaughan.ca/">a 3D design studio</a>, building accessible, engaging digital experiences across industries.
             </p>
             <p>
               I recently{' '}
