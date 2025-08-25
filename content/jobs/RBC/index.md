@@ -1,7 +1,7 @@
 ---
 date: '2025-08-01'
 title: 'Senior Risk Manager, IGA Governance'
-company: 'RBC
+company: 'RBC'
 location: 'Downtown Toronto, ON'
 range: 'Aug 2025 - Present'
 url: 'https://www.rbcroyalbank.com/'
