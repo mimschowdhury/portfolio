@@ -7,9 +7,9 @@ range: 'Aug 2025 - Present'
 url: 'https://www.rbcroyalbank.com/'
 ---
 
-- Lead the execution of Third-Party Supplier Risk Management frameworks, ensuring comprehensive assessment, monitoring, and mitigation of supplier risks.
-- Manage the supplier lifecycle, leveraging risk and governance methodologies to strengthen organizational resilience.
-- Utilize Archer and other risk/compliance tools to analyze, report, and mitigate operational and third-party risks effectively.
-- Conduct business analysis of processes, workflows, and requirements, translating ambiguous inputs into actionable insights and solutions.
-- Drive planning and change management initiatives, adapting to dynamic operational demands while maintaining rigorous risk controls.
-- Build and maintain strong relationships with senior stakeholders and cross-functional teams, fostering trust and proactive issue resolution.
+- Lead governance and oversight of Intra-Group Arrangements (IGAs), ensuring compliance with RBC’s Third-Party Risk Management (TPRM) framework and regulatory standards across multiple jurisdictions.
+- Drive end-to-end supplier lifecycle management—risk assessments, due diligence, monitoring, and remediation—strengthening resilience and reducing operational risk exposure.
+- Partner with senior leadership to advise on policy rollouts, regulatory changes, and risk culture initiatives, enabling informed decision-making at the enterprise level.
+- Spearhead process improvements and gap analyses, streamlining governance workflows and delivering measurable efficiency gains.
+- Support audits, regulatory filings, and executive reporting with accurate, timely insights that enhance transparency and accountability.
+- Leverage Archer, Ivalua, Tableau, and advanced Excel analytics to track supplier performance, build dashboards, and deliver actionable intelligence for risk mitigation.
