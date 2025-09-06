@@ -144,10 +144,8 @@ const About = () => {
             {/* <p><em>Engineer turned coder </em>with a soft spot for coffee, clean code, and human-centered design 👩🏻‍💻.</p> */}
             <p>Hi! I'm Mimta — I love creating fun, impactful projects and websites 👩🏻‍💻!</p>
             <p>
-              I’m a Software Engineering alumnus from BrainStation with an unconventional edge: a background in 
-              biomedical engineering and enterprise risk management. 
-              My career pivot reflects a commitment to continuous learning and 
-              my drive to build meaningful, user-focused digital solutions.
+              With a background in biomedical engineering, risk management, and software engineering, 
+              I bring an unconventional edge to building user-focused digital solutions.
             </p>
             <p>
               Fast-forward to today, and I’ve had the privilege of working at{' '}
@@ -161,10 +159,10 @@ const About = () => {
               <strong>
                 <a href="https://6ixcafes.netlify.app/">launched 6ixcafes</a>
               </strong>{' '}
-              — a cafe discovery platform for Toronto coffee enthusiasts that blends my technical skills with my love for local gems.
+              — a Toronto cafe discovery platform that blends my technical skills with my love for local gems.
             </p>
 
-            <p>Here are a few technologies I’ve been working with recently:</p>
+            <p>Tech Stack:</p>
           </div>
 
           <ul className="skills-list">
