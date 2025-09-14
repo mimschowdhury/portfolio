@@ -142,13 +142,13 @@ const About = () => {
         <StyledText>
           <div>
             {/* <p><em>Engineer turned coder </em>with a soft spot for coffee, clean code, and human-centered design 👩🏻‍💻.</p> */}
-            <p>Hi! I'm Mimta — I love creating fun, impactful projects and websites 👩🏻‍💻!</p>
+            <p>Hi! I'm Mimta — I love building fun, impactful digital experiences 👩🏻‍💻!</p>
             <p>
               With a background in biomedical engineering, risk management, and software engineering, 
-              I bring an unconventional edge to building user-focused digital solutions.
+              I bring an unconventional edge to user-focused solutions.
             </p>
             <p>
-              Fast-forward to today, and I’ve had the privilege of working at{' '}
+              Fast-forward to today, I've worked across{' '}
               <a href="https://www.redcross.ca/">a non-profit organization</a>,{' '}
               <a href="https://www.td.com/ca/">a huge corporation</a>,{' '}
               <a href="https://www.pokimanphotos.com/">a local small business</a>, and{' '}
